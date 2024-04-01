@@ -22,7 +22,7 @@ This web application serves as a tool for Exploratory Data Analysis (EDA), Data 
 
 ## Demo
 
- [Checkout our Web App](https://adiii89-datamorph-preprocessing-an-streamlitdatacleaning-4ezhvf.streamlit.app/)
+ Checkout our Web App [Click Here](https://adiii89-datamorph-preprocessing-an-streamlitdatacleaning-4ezhvf.streamlit.app/)
 
 <a name="demo"></a>
 
