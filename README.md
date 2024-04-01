@@ -22,7 +22,7 @@ This web application serves as a tool for Exploratory Data Analysis (EDA), Data 
 
 ## Demo
 
-  https://adiii89-datacleaning-streamlitdatacleaning-gmtrad.streamlit.app/
+ [Check our Web App](https://adiii89-datamorph-preprocessing-an-streamlitdatacleaning-4ezhvf.streamlit.app/)
 
 <a name="demo"></a>
 
