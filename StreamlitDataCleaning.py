@@ -21,9 +21,9 @@ def main():
         st.header('Components of the Application:', divider='rainbow')
         st.write(" **1.Exploratory Data Analysis (EDA):** "
                   "Users can upload a dataset and explore its contents. They can view the first few rows of the dataset, summary statistics, column names, and value counts of selected columns. Options are available to visualize data using Matplotlib and Seaborn for correlation plots, and to generate pie charts.")
-        st.write(" **Data Visualization:** "
+        st.write(" **2.Data Visualization:** "
                   "Users can upload a dataset and visualize it using different types of plots such as area, bar, line, histogram, box, and kernel density estimate (kde). They can select specific columns to plot and customize the visualization according to their preferences.")
-        st.write(" **Data Preprocessing:** "
+        st.write(" **3.Data Preprocessing:** "
                   "Users can upload a dataset and choose various preprocessing tasks such as removing duplicates, filling missing values, handling categorical data, normalization, standardization, and handling outliers. Options are available for different strategies to handle missing values and outliers. After preprocessing, users can download the cleaned dataset in CSV format.")
         st.header('Conclusion', divider='rainbow')
         st.write("This web application provides a user-friendly interface for data exploration, visualization, and preprocessing tasks. It empowers users to gain insights from their datasets, prepare data for machine learning models, and streamline their data analysis workflows. With its intuitive design and comprehensive functionality, it serves as a valuable tool for data scientists, analysts, and researchers in their data-driven endeavors.")
